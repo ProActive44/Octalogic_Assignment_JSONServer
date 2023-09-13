@@ -1,0 +1,203 @@
+{
+  "latestEnrol": [
+    {
+      "id": 1,
+      "EnrolNo": 101,
+      "sname": "Alice Johnson",
+      "cname": "Guitar",
+      "fees": "$150",
+      "date": "22-09-2023"
+    },
+    {
+      "id": 2,
+      "EnrolNo": 102,
+      "sname": "Bob Smith",
+      "cname": "Piano",
+      "fees": "$200",
+      "date": "18-09-2023"
+    },
+    {
+      "id": 3,
+      "EnrolNo": 103,
+      "sname": "Charlie Brown",
+      "cname": "Violin",
+      "fees": "$180",
+      "date": "25-09-2023"
+    },
+    {
+      "id": 4,
+      "EnrolNo": 104,
+      "sname": "David Lee",
+      "cname": "Flute",
+      "fees": "$170",
+      "date": "19-09-2023"
+    },
+    {
+      "id": 5,
+      "EnrolNo": 105,
+      "sname": "Eva Davis",
+      "cname": "Drums",
+      "fees": "$220",
+      "date": "23-09-2023"
+    }
+  ],
+  "Students": [
+    {
+      "id": 1,
+      "Regno": 43422,
+      "fname": "John",
+      "lname": "Doe",
+      "course": 3,
+      "Totalfees": "$300",
+      "Regdata": "01-06-2023"
+    },
+    {
+      "id": 2,
+      "Regno": 43423,
+      "fname": "Alice",
+      "lname": "Smith",
+      "course": 2,
+      "Totalfees": "$250",
+      "Regdata": "05-06-2023"
+    },
+    {
+      "id": 3,
+      "Regno": 43424,
+      "fname": "Bob",
+      "lname": "Johnson",
+      "course": 1,
+      "Totalfees": "$200",
+      "Regdata": "10-06-2023"
+    },
+    {
+      "id": 4,
+      "Regno": 43425,
+      "fname": "Eva",
+      "lname": "Brown",
+      "course": 4,
+      "Totalfees": "$350",
+      "Regdata": "15-06-2023"
+    },
+    {
+      "id": 5,
+      "Regno": 43426,
+      "fname": "Charlie",
+      "lname": "Lee",
+      "course": 5,
+      "Totalfees": "$400",
+      "Regdata": "20-06-2023"
+    }
+  ],
+  "Courses": [
+    {
+      "id": 1,
+      "name": "Classical Guitar",
+      "desc": "Guitar classes for you",
+      "instructor": "Ms. Jane Doe",
+      "instrument": "Guitar",
+      "Day": "Wednesday",
+      "students": 26,
+      "price": "$60",
+      "status": "Active"
+    },
+    {
+      "id": 2,
+      "name": "Piano for Beginners",
+      "desc": "Learn to play the piano from scratch",
+      "instructor": "Mr. John Smith",
+      "instrument": "Piano",
+      "Day": "Monday",
+      "students": 18,
+      "price": "$75",
+      "status": "Closed"
+    },
+    {
+      "id": 3,
+      "name": "Violin Masterclass",
+      "desc": "Advanced violin techniques and practice",
+      "instructor": "Dr. Sarah Johnson",
+      "instrument": "Violin",
+      "Day": "Thursday",
+      "students": 12,
+      "price": "$90",
+      "status": "Active"
+    },
+    {
+      "id": 4,
+      "name": "Flute Workshop",
+      "desc": "Explore the world of flutes and music",
+      "instructor": "Mr. David Lee",
+      "instrument": "Flute",
+      "Day": "Tuesday",
+      "students": 20,
+      "price": "$70",
+      "status": "Archived"
+    },
+    {
+      "id": 5,
+      "name": "Drums Rock",
+      "desc": "Rock out with drumming lessons",
+      "instructor": "Ms. Lisa Brown",
+      "instrument": "Drums",
+      "Day": "Friday",
+      "students": 15,
+      "price": "$80",
+      "status": "Closed"
+    },
+    {
+      "id": 6,
+      "name": "Saxophone Serenade",
+      "desc": "Discover the beauty of saxophone melodies",
+      "instructor": "Mr. Michael Jackson",
+      "instrument": "Saxophone",
+      "Day": "Wednesday",
+      "students": 22,
+      "price": "$85",
+      "status": "Active"
+    },
+    {
+      "id": 7,
+      "name": "Electric Bass Groove",
+      "desc": "Groove with electric bass lessons",
+      "instructor": "Mr. Robert Taylor",
+      "instrument": "Electric Bass",
+      "Day": "Monday",
+      "students": 14,
+      "price": "$70",
+      "status": "Closed"
+    },
+    {
+      "id": 8,
+      "name": "Keyboard Classics",
+      "desc": "Classic keyboard compositions and techniques",
+      "instructor": "Ms. Emily White",
+      "instrument": "Keyboard",
+      "Day": "Thursday",
+      "students": 19,
+      "price": "$65",
+      "status": "Active"
+    },
+    {
+      "id": 9,
+      "name": "Harp Harmony",
+      "desc": "Harmonize with the magical sounds of the harp",
+      "instructor": "Dr. William Green",
+      "instrument": "Harp",
+      "Day": "Tuesday",
+      "students": 10,
+      "price": "$100",
+      "status": "Archived"
+    },
+    {
+      "id": 10,
+      "name": "Trumpet Triumph",
+      "desc": "Triumph through trumpet mastery",
+      "instructor": "Ms. Laura Davis",
+      "instrument": "Trumpet",
+      "Day": "Friday",
+      "students": 16,
+      "price": "$75",
+      "status": "Active"
+    }
+  ]
+}
